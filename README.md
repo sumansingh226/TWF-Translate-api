@@ -49,3 +49,14 @@ Request:
   "text": "Hello, how are you?"
 }
 ```
+
+### curl
+
+```
+curl --location --request POST 'https://twf-translate-api.vercel.app/translate/englishToFrench' \
+--header 'Content-Type: application/json' \
+--data-raw '{
+
+ "text": "Hello, how are you?"
+}'
+```

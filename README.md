@@ -38,7 +38,7 @@ This API translates English text to French using a simple RESTful endpoint.
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Start the server using `npm start`.
-4. Access the API at `http://localhost:5000/translate/englishToFrench`.
+4. Access the API at `https://wftranslateenglishtofrench.vercel.app/translate/englishToFrench`.
 
 ### Example
 
